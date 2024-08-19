@@ -1,0 +1,7 @@
+[template]
+src = "nginx.sh"
+dest = "/scripts/nginx.sh"
+owner = "root"
+group = "root"
+mode = "0700"
+keys = []

@@ -1,0 +1,7 @@
+[template]
+src = "syslog-ng.sh"
+dest = "/scripts/syslog-ng.sh"
+owner = "root"
+group = "root"
+mode = "0700"
+keys = []

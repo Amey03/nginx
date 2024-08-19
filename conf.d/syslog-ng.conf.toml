@@ -1,0 +1,7 @@
+[template]
+src = "syslog-ng.conf"
+dest = "/etc/syslog-ng/syslog-ng.conf"
+owner = "root"
+group = "root"
+mode = "0600"
+keys = []

@@ -1,0 +1,7 @@
+[template]
+src = "nginx.whitelist.conf"
+dest = "/etc/nginx/nginx.whitelist.conf"
+owner = "root"
+group = "root"
+mode = "0644"
+keys = []

@@ -1,0 +1,7 @@
+[template]
+src = "syslog-ng-supervisor.conf"
+dest = "/etc/supervisor/conf.d/syslog-ng.conf"
+owner = "root"
+group = "root"
+mode = "0644"
+keys = []

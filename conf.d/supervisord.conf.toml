@@ -1,0 +1,7 @@
+[template]
+src = "supervisord.conf"
+dest = "/etc/supervisord.conf"
+owner = "root"
+group = "root"
+mode = "0644"
+keys = []

@@ -1,0 +1,7 @@
+[template]
+src = "syslog-pipe.conf"
+dest = "/etc/syslog-ng/conf.d/pipe.conf"
+owner = "root"
+group = "root"
+mode = "0644"
+keys = []

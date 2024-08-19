@@ -1,0 +1,7 @@
+[template]
+src = "cron.sh"
+dest = "/scripts/cron.sh"
+owner = "root"
+group = "root"
+mode = "0700"
+keys = []

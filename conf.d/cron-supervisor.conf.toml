@@ -1,0 +1,7 @@
+[template]
+src = "nginx-supervisor.conf"
+dest = "/etc/supervisor/conf.d/nginx.conf"
+owner = "root"
+group = "root"
+mode = "0644"
+keys = []
